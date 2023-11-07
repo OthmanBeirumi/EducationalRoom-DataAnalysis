@@ -41,6 +41,6 @@ The data are presented in graphical representation. They are plotted using vario
 ## **Thermal Prediction**
 The computer vison package has been used to predicts the location of highest degree temperature in a thermal picture.
 
-![image](Images/window_thermal_frame_original.jpg)
+![image](Images/window_thermal_frame_original.JPG)
 
 ![image](Images/download.png)
